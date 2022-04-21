@@ -24,6 +24,6 @@ To navigate our Twine Tour, click on each site to first learn a bit about its hi
 
 It may be easy to get lost, but never fear – scroll to the bottom of each page to find links to each of the eight sites to start all over again! And as you visit more and more pages, blue words will indicate pages that you have already visited so you won’t lose track.
 
-We hope you enjoy our tour as much as we did making it! <a href="http://campusarch.msu.edu/hauntedtour/" target"_blank">Click here to start our Tour!</a> 
+We hope you enjoy our tour as much as we did making it! Click here to start our Tour!: http://campusarch.msu.edu/hauntedtour/
 
-This tour was created by Rhian Dunn (<a href="https://anthropology.msu.edu/author/dunnrhia/" target"_blank">Click here to view her website</a>) Jeffrey Burnett (<a href="https://jeffreyjburnett.com/" target"_blank">Click here to view his website</a>) for the Campus Archaeology program using Twine <a href="http://https://twinery.org//" target"_blank">Click here to explore the Twine website</a>. 
+This tour was created by Rhian Dunn (https://anthropology.msu.edu/author/dunnrhia/) & Jeffrey Burnett (https://jeffreyjburnett.com/) for the Campus Archaeology program using Twine (http://https://twinery.org//). 
