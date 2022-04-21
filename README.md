@@ -1,1 +1,5 @@
 # Haunted-Tour-Twine
+
+Welcome to our virtual tour! Since its establishment in 1855, Michigan State University has developed its own unique history that has led to numerous legends, including some spooky ones! To share all we know about the history of these ghostly sites and stories, the Campus Archaeology Program has combined written, photographic, cartographic, and archaeological evidence. Join us as we explore these sites, their past, and their place on campus today.
+
+There are many versions of this twine tour as Rhian and Jeff worked on it collaborativly - emailing the html file back and forth as they built it. Proofing edits were also made in the same fashion. When this repo was created in 2022, only the most recent versions were added. Gebnerally speaking - whole number version changes indicate significant edits and decimal point version changes indicate minor proofing or code changes. Between version 36 and 37 the major update was changing all inage urls from those storied in Jeff's personal github repository to this one here. Version 37.1 includes minor proofing changes. 
